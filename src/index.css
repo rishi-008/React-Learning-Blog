@@ -368,13 +368,13 @@ time, h2, p {
         list-style: none;
         display: flex;
         gap: 0.5em;
-        font-size: 1.2rem;
+        /* font-size: 1.2rem; */
         /* margin: 0; */
         padding: 0;
     }
 
     .navbar-horizontal-display-layout li  a{
-      font-size: 1.5rem;
+      font-size: 1.2rem;
     }
     
     .navbar-horizontal-display-layout li {
